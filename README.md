@@ -32,7 +32,7 @@ Installation
 
 Clone this repository to your local machine:
 
-git clone https://github.com/Akashhverma/Location-based-restaurant-recommendation/tree/main.git
+git clone https://github.com/Akashhverma/Location-based-restaurant-recommendation.git
 
 Navigate to the project directory:
 
